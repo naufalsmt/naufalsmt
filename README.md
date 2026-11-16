@@ -19,7 +19,7 @@ I focus on delivering reliable software through effective test strategies, defec
 
 ### 🚀 Featured QA Projects
 
-## 1. Flight Booking Automation – Playwright & Python
+#### 1. Flight Booking Automation – Playwright & Python
 End-to-end flight booking workflow automation using Python and Playwright.
 
 - Page Object Model (POM)
@@ -30,7 +30,7 @@ End-to-end flight booking workflow automation using Python and Playwright.
 
 [View Project](https://github.com/naufalsmt/Playwright_Python_Automation_Flight_Booking)
 
-## 2. QA Database & API Automation – Python, FastAPI & PostgreSQL
+#### 2. QA Database & API Automation – Python, FastAPI & PostgreSQL
 Practical QA automation project covering REST API testing and PostgreSQL database validation.
 
 - API testing using Pytest
@@ -41,7 +41,7 @@ Practical QA automation project covering REST API testing and PostgreSQL databas
 
 [View Project](https://github.com/naufalsmt/QA_Database_Automation)
 
-## 3. Python API Testing – Pytest
+#### 3. Python API Testing – Pytest
 API testing practice covering different REST API scenarios and Pytest features.
 
 - GET, POST, PATCH and DELETE testing
