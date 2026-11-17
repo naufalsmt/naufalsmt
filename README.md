@@ -1,10 +1,15 @@
 # Hi, I'm Naufal Shamsudeen 👋
 
-### Software QA Engineer | Manual & Automation Testing
+### Software QA Engineer | Manual & Automation Testing | Python | Playwright | Selenium | API | PostgreSQL
 
-Software QA Engineer with **5+ years of experience** in Software Quality Assurance across FinTech, Digital Payments, Healthcare, Real Estate, ERP, CRM, and Enterprise Applications.
+Software QA Engineer with **5+ years of experience in Software Quality Assurance** across FinTech, Digital Payments, Healthcare, Real Estate, ERP, CRM, E-commerce, and Enterprise Applications.
 
+Experienced in manual testing, functional testing, API validation, database testing, and test automation. Skilled in identifying defects, validating business workflows, and ensuring software quality across web and mobile applications.
+
+I combine practical industry experience with hands-on Python-based test automation projects.
 I focus on delivering reliable software through effective test strategies, defect identification, API validation, and database testing.
+
+---
 
 ### 🛠️ Technologies & Tools
 
@@ -17,61 +22,89 @@ I focus on delivering reliable software through effective test strategies, defec
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+---
+
 ### 🚀 Featured QA Projects
 
-#### 1. Flight Booking Automation – Playwright & Python
+#### 1. ✈️ Flight Booking – Web UI Automation
 End-to-end flight booking workflow automation using Python and Playwright.
+**Python | Playwright | Pytest | POM | GitHub Actions**
 
-- Page Object Model (POM)
-- Pytest framework
-- JSON test data parameterization
-- UI workflow validation
-- GitHub Actions CI/CD
+- Automated end-to-end flight booking workflows.
+- Implemented Page Object Model (POM).
+- Created reusable Pytest fixtures.
+- Implemented JSON-based test data parameterization.
+- Covered positive and negative test scenarios.
+- Integrated automated test execution with GitHub Actions.
 
 [View Project](https://github.com/naufalsmt/Playwright_Python_Automation_Flight_Booking)
 
-#### 2. QA Database & API Automation – Python, FastAPI & PostgreSQL
+#### 2. 🗄️ Database & API Automation
 Practical QA automation project covering REST API testing and PostgreSQL database validation.
+**Python | Pytest | PostgreSQL | FastAPI | GitHub Actions**
 
-- API testing using Pytest
-- GET and POST request validation
-- PostgreSQL database testing
-- Data insertion, retrieval and verification
-- Backend data validation
+- Automated PostgreSQL database validation.
+- Tested REST API GET and POST operations.
+- Validated response status codes and response data.
+- Covered positive and negative test scenarios.
+- Verified database operations and data integrity.
+- Practiced API and database testing integration.
 
 [View Project](https://github.com/naufalsmt/QA_Database_Automation)
 
-#### 3. Python API Testing – Pytest
+#### 3. 🔗 Python REST API Testing
 API testing practice covering different REST API scenarios and Pytest features.
+**Python | Pytest | REST API**
 
-- GET, POST, PATCH and DELETE testing
-- API response validation
-- Fixtures and parameterization
-- Headers and authentication testing
-- Positive and negative test scenarios
+- Practiced GET, POST, PATCH and DELETE requests.
+- Validated API response codes and response data.
+- Tested headers and authentication.
+- Implemented Pytest fixtures and parameterization.
+- Covered positive and negative API scenarios.
 
 [View Project](https://github.com/naufalsmt/Python_API_Testing_Learning)
 
 ### 🛠️ Technical Skills
 
-- **Manual Testing:** Functional, Integration, Regression, Smoke & Sanity Testing
-- **Automation:** Python, Playwright, Selenium, Pytest
-- **API Testing:** Postman
-- **Database:** PostgreSQL, SQL
-- **Tools:** Jira, Git, GitHub
+- **Manual Testing:** Functional, Integration, Regression, Smoke, Sanity Testing
+- **Automation:** Python, Pytest, Playwright, Selenium
+- **API Testing:** REST API, Postman, Request/Response Validation
+- **Database Testing:** PostgreSQL, SQL, Data Validation
+- **Test Management:** Jira, Zephyr, QMetry
+- **Monitoring & Troubleshooting:** Datadog, Grafana, Kafka
+- **CI/CD & Version Control:** Git, GitHub, GitHub Actions
 
-### 🚀 Current Learning & Projects
+---
 
-- Developing Python-based test automation frameworks
-- Building web UI automation using Playwright and Pytest
-- Practicing API and PostgreSQL database testing
-- Implementing CI/CD using GitHub Actions
+### 📚 Currently Learning & Improving
 
-### 🎯 Professional Goal
+- Advanced Python test automation
+- Playwright automation using Page Object Model
+- REST API automation
+- PostgreSQL database testing
+- CI/CD integration using GitHub Actions
+- Building maintainable and reusable automation frameworks
 
-Continuously expanding my automation testing expertise and building practical projects to improve software quality and test efficiency.
+---
+
+### 💼 Professional Background
+
+- 5+ years of Software QA experience across multiple business domains.
+- Additional experience in industrial automation, PLC, SCADA and HMI systems.
+- Experience working with cross-functional teams in enterprise environments.
+
+---
+
+### 🎯 Career Focus
+
+Continuously improving software quality through effective testing strategies, automation, API validation, and database testing.
+
+**Open to Software QA Engineer / QA Automation Engineer opportunities in the UAE.**
+
+---
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/naufal-shamsudeen-m-t-02a6a622
+- **LinkedIn:** [Naufal Shamsudeen](https://www.linkedin.com/in/naufal-shamsudeen-m-t-02a6a622)
+- **GitHub:** [github.com/naufalsmt](https://github.com/naufalsmt)
 - **Email:** naufalsmt@gmail.com
