@@ -28,6 +28,7 @@ I focus on delivering reliable software through effective test strategies, defec
 
 #### 1. ✈️ Flight Booking – Web UI Automation
 End-to-end flight booking workflow automation using Python and Playwright.
+
 **Python | Playwright | Pytest | POM | GitHub Actions**
 
 - Automated end-to-end flight booking workflows.
@@ -41,6 +42,7 @@ End-to-end flight booking workflow automation using Python and Playwright.
 
 #### 2. 🗄️ Database & API Automation
 Practical QA automation project covering REST API testing and PostgreSQL database validation.
+
 **Python | Pytest | PostgreSQL | FastAPI | GitHub Actions**
 
 - Automated PostgreSQL database validation.
@@ -54,6 +56,7 @@ Practical QA automation project covering REST API testing and PostgreSQL databas
 
 #### 3. 🔗 Python REST API Testing
 API testing practice covering different REST API scenarios and Pytest features.
+
 **Python | Pytest | REST API**
 
 - Practiced GET, POST, PATCH and DELETE requests.
