@@ -64,6 +64,8 @@ API testing practice covering different REST API scenarios and Pytest features.
 
 [View Project](https://github.com/naufalsmt/Python_API_Testing_Learning)
 
+---
+
 ### 🛠️ Technical Skills
 
 - **Manual Testing:** Functional, Integration, Regression, Smoke, Sanity Testing
