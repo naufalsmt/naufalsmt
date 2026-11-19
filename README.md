@@ -17,12 +17,14 @@ I focus on delivering reliable software through effective test strategies, defec
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-6.2.3-orange?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
@@ -69,16 +71,32 @@ API testing practice covering different REST API scenarios and Pytest features.
 
 [View Project](https://github.com/naufalsmt/Python_API_Testing_Learning)
 
+#### 4. 🔐 Postman Authentication API Automation
+Automated API authentication testing covering different authentication mechanisms and security scenarios.
+
+**Postman | JavaScript | REST API | Newman | GitHub Actions**
+
+- Automated API authentication testing using Postman and Newman.
+- Covered API Key, Basic Authentication, and Bearer Token authentication.
+- Implemented positive and negative authentication scenarios.
+- Automated access token extraction and reuse across requests.
+- Integrated Newman tests with GitHub Actions CI/CD.
+- Managed credentials using Postman environment variables and GitHub repository secrets.
+
+[View Project](https://github.com/naufalsmt/Postman_Authentication_Automation)
+
 ---
 
 ### 🛠️ Technical Skills
 
 - **Manual Testing:** Functional, Integration, Regression, Smoke, Sanity Testing
 - **Automation:** Python, Pytest, Playwright, Selenium
-- **API Testing:** REST API, Postman, Request/Response Validation
+- **API Testing:** REST API, Postman, Newman, Request/Response Validation, Authentication Testing
+- **Test Reporting:** pytest-html, Newman CLI Reports
 - **Database Testing:** PostgreSQL, SQL, Data Validation
 - **Test Management:** Jira, Zephyr, QMetry
 - **Monitoring & Troubleshooting:** Datadog, Grafana, Kafka
+- **Performance Testing:** Apache JMeter
 - **CI/CD & Version Control:** Git, GitHub, GitHub Actions
 
 ---
@@ -86,11 +104,12 @@ API testing practice covering different REST API scenarios and Pytest features.
 ### 📚 Currently Learning & Improving
 
 - Advanced Python test automation
-- Playwright automation using Page Object Model
-- REST API automation
-- PostgreSQL database testing
-- CI/CD integration using GitHub Actions
-- Building maintainable and reusable automation frameworks
+- HTML Test Reporting using pytest-html
+- Performance & Load Testing using Apache JMeter
+- Advanced QA Framework Development
+- AI-Assist Software Testing
+- Advanced API Test Automation
+- Test Reporting & Result Analysis
 
 ---
 
@@ -104,7 +123,7 @@ API testing practice covering different REST API scenarios and Pytest features.
 
 ### 🎯 Career Focus
 
-Continuously improving software quality through effective testing strategies, automation, API validation, and database testing.
+Continuously improving software quality through effective testing strategies, automation, API validation, database testing, and continuous integration.
 
 **Open to Software QA Engineer / QA Automation Engineer opportunities in the UAE.**
 
